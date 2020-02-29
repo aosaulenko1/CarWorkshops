@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CarWorkshops.WebApplication</name>
+    </assembly>
+    <members>
+        <member name="T:CarWorkshops.WebApplication.Models.AppointmentDto">
+            <summary>
+            Appointment between a user and a car workshop
+            </summary>
+        </member>
+        <member name="T:CarWorkshops.WebApplication.Models.AppointmentUpdateDto">
+            <summary>
+            Change the date and time of an existent appointment
+            </summary>
+        </member>
+        <member name="T:CarWorkshops.WebApplication.Models.CarWorkshopDto">
+            <summary>
+            Car workshop
+            </summary>
+        </member>
+        <member name="P:CarWorkshops.WebApplication.Models.CarWorkshopDto.CarTrademarks">
+            <summary>
+            Car trademarks specializes in (example BMW, VW)
+            </summary>
+        </member>
+        <member name="T:CarWorkshops.WebApplication.Models.UserDto">
+            <summary>
+            User
+            </summary>
+        </member>
+    </members>
+</doc>
